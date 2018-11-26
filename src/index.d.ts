@@ -31,5 +31,5 @@ declare module 'reactjs-popup' {
 
   class Popup extends React.Component<Props> {}
 
-  export = Popup;
+  export default Popup;
 }
